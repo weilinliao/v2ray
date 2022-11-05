@@ -2,7 +2,7 @@
     "inbounds":[
         {
             "port":24380,
-            "listen":"45.85.248.185",
+            "listen":"66.150.64.47",
             "protocol":"vmess",
             "settings":{
                 "clients":[
@@ -27,7 +27,7 @@
         },
         {
             "port":24380,
-            "listen":"45.15.124.45",
+            "listen":"66.150.64.57",
             "protocol":"vmess",
             "settings":{
                 "clients":[
@@ -67,7 +67,7 @@
     },
     "outbounds":[
         {
-            "sendThrough":"45.85.248.185",
+            "sendThrough":"66.150.64.47",
             "protocol":"freedom",
             "settings":{
                 "domainStrategy":"UseIP"
@@ -75,7 +75,7 @@
             "tag":"8888-out"
         },
         {
-            "sendThrough":"45.15.124.45",
+            "sendThrough":"66.150.64.57",
             "protocol":"freedom",
             "settings":{
                 "domainStrategy":"UseIP"
