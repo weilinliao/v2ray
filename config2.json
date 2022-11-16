@@ -5,11 +5,11 @@
         "loglevel": "warning"
     },
     "inbounds": [{
-            "port": 11055,
+            "port": 24380,
             "protocol": "vmess",
             "settings": {
                 "clients": [{
-                        "id": "27848739-7e62-4138-9fd3-098a63964b6b",
+                        "id": "7966c347-b5f5-46a0-b720-ef2d76e1836a",
                         "level": 1,
                         "alterId": 0
                     }
